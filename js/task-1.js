@@ -1,6 +1,6 @@
 const getUserNames = (users) => users.map(user => user.name);
 
-1111
+// 1111
 console.log(
 getUserNames([
 {
